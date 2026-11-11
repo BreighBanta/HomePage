@@ -5,11 +5,15 @@ I am a Student at Midway University studying Computer Science and Equine Managem
 Interests: Data management, Equine management and care, software and web development
 Education: Pursuing a degree in Computer Science and Equine Management at Midway University
 
-##Here is my Homepage: https://github.com/BreighBanta/BreighBanta
+Here is my Homepage: https://github.com/BreighBanta/BreighBanta
 
-## 📊 Breigh's GitHub
+Breigh's GitHub
 
-| Top Languages | Page Views | Profile Summary |
-| :---: | :---: | :---: |
-| ![](https://vercel.app) | <a href="https://clustrmaps.com" title="ClustrMaps"><img src="https://clustrmaps.com" /></a> | ![](https://vercel.app) |
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+| Top Languages | Profile Summary |
+| :---: | :---: |
+| ![Top Languages](https://vercel.app) | ![Profile Summary](https://vercel.app) |
 
