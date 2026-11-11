@@ -7,13 +7,29 @@ Education: Pursuing a degree in Computer Science and Equine Management at Midway
 
 Here is my Homepage: https://github.com/BreighBanta/BreighBanta
 
-Breigh's GitHub
+### My Github
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+<div align="center">
 
-| Top Languages | Profile Summary |
-| :---: | :---: |
-| ![Top Languages](https://vercel.app) | ![Profile Summary](https://vercel.app) |
+  <p>
+    <img src="https://komarev.com" alt="Profile Views" />
+  </p>
+
+  <table>
+    <tr>
+      <th align="center">Top Languages</th>
+      <th align="center">Profile Summary</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://vercel.app" alt="Top Languages" height="165" />
+      </td>
+      <td align="center">
+        <img src="https://vercel.app" alt="Profile Summary" height="165" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
