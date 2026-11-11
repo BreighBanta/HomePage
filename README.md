@@ -1,20 +1,14 @@
-## 👋 Hi, I am Breigh.
+## Hi, I am Breigh!
 
-Your introduction ...
+I am a Student at Midway University studying Computer Science and Equine Management. I love animals, especially horses, and am looking for ways to bridge the gap between technology and the Equine Industry by exploring software development, data management, cybersecurity, and web development. 
 
-Your introduction ...
+Interests: Data management, Equine management and care, software and web development
+Education: Pursuing a degree in Computer Science and Equine Management at Midway University
 
-Here is my Homepage your home page url</td>
-
+Here is my Homepage: https://github.com/BreighBanta/BreighBanta
 
 ## 📊 Breigh's GitHub
 
-|Languages |Page views|Stats|
-|--------------|------------|------------|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=BreighBanta&layout=compact&langs_count=8&theme=dark)|
-<a href="https://clustrmaps.com/site/1c87q"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=hlWMtk9fpBAa5g7H1QUf7NTL7KcRahMUEYKD01ygFcQ&cl=ffffff" /></a>
-
-<!--<a href="https://clustrmaps.com/site/1c7st"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRDgs&cl=ffffff" width="280" height="230" /></a>|![](https://github-readme-stats.vercel.app/api?username=BreighBanta&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|-->
-<!--|![](https://github-readme-stats.vercel.app/api?username=BreighBanta&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=BreighBanta&layout=compact&langs_count=8&theme=dark)|-->
-<!--|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreighBanta&theme=tokyonight)|![](https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRDgs)|-->
-
+| Top Languages | Page Views | Profile Summary |
+| :---: | :---: | :---: |
+| ![](https://vercel.app) | <a href="https://clustrmaps.com/site/1c87q" title="ClustrMaps"><img src="https://clustrmaps.com" width="240" /></a> | ![](https://vercel.app) |
