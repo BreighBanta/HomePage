@@ -22,14 +22,12 @@ Here is my Homepage: https://github.com/BreighBanta/BreighBanta
     </tr>
     <tr>
       <td align="center">
-        <img src="https://vercel.app" alt="Top Languages" height="165" />
+        <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" height="165" />
       </td>
       <td align="center">
-        <img src="https://vercel.app" alt="Profile Summary" height="165" />
+        <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Summary" height="165" />
       </td>
     </tr>
   </table>
 
 </div>
-
-
