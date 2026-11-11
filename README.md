@@ -11,10 +11,6 @@ Here is my Homepage: https://github.com/BreighBanta/BreighBanta
 
 <div align="center">
 
-  <p>
-    <img src="https://komarev.com" alt="Profile Views" />
-  </p>
-
   <table>
     <tr>
       <th align="center">Top Languages</th>
